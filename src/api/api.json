@@ -1,0 +1,1331 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "Title": "MediaNXT Bootcamp",
+                "description": "Providing the photos and some video for the Bootcamp of MediaNXT.",
+                "Date": "2022-10-25",
+                "tags": "Foto & Video",
+                "UrlVideo": null,
+                "createdAt": "2022-10-27T16:58:47.066Z",
+                "updatedAt": "2022-10-29T18:11:03.930Z",
+                "publishedAt": "2022-10-27T16:59:15.897Z",
+                "client": "Voor MediaNXT in samenwerking met Bob Storms",
+                "Media": {
+                    "data": [
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-21.webp",
+                                "alternativeText": "JEF-mediaNXT-2-21.webp",
+                                "caption": "JEF-mediaNXT-2-21.webp",
+                                "width": 5760,
+                                "height": 3840,
+                                "formats": {
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-21.webp",
+                                        "hash": "large_JEF_media_NXT_2_21_7017728496",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 76.12,
+                                        "url": "/uploads/JEF_media_NXT_2_21_7017728496.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_21_7017728496",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 3662.82,
+                                "url": "/uploads/JEF_media_NXT_2_21_7017728496.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:57.091Z",
+                                "updatedAt": "2022-10-28T13:30:32.330Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-19.webp",
+                                "alternativeText": "JEF-mediaNXT-2-19.webp",
+                                "caption": "JEF-mediaNXT-2-19.webp",
+                                "width": 5760,
+                                "height": 3840,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-19.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_19_5e1962906b",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 5.52,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_19_5e1962906b.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-19.webp",
+                                        "hash": "large_JEF_media_NXT_2_19_5e1962906b",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 32.15,
+                                        "url": "/uploads/large_JEF_media_NXT_2_19_5e1962906b.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-19.webp",
+                                        "hash": "medium_JEF_media_NXT_2_19_5e1962906b",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 22.61,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_19_5e1962906b.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-19.webp",
+                                        "hash": "small_JEF_media_NXT_2_19_5e1962906b",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 13.23,
+                                        "url": "/uploads/small_JEF_media_NXT_2_19_5e1962906b.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_19_5e1962906b",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 4038.46,
+                                "url": "/uploads/JEF_media_NXT_2_19_5e1962906b.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:56.150Z",
+                                "updatedAt": "2022-10-28T13:30:37.446Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-17.webp",
+                                "alternativeText": "JEF-mediaNXT-2-17.webp",
+                                "caption": "JEF-mediaNXT-2-17.webp",
+                                "width": 3840,
+                                "height": 5760,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-17.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_17_c0f747cf1f",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 104,
+                                        "height": 156,
+                                        "size": 4.24,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_17_c0f747cf1f.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-17.webp",
+                                        "hash": "large_JEF_media_NXT_2_17_c0f747cf1f",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 667,
+                                        "height": 1000,
+                                        "size": 60.41,
+                                        "url": "/uploads/large_JEF_media_NXT_2_17_c0f747cf1f.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-17.webp",
+                                        "hash": "medium_JEF_media_NXT_2_17_c0f747cf1f",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 750,
+                                        "size": 38.07,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_17_c0f747cf1f.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-17.webp",
+                                        "hash": "small_JEF_media_NXT_2_17_c0f747cf1f",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 333,
+                                        "height": 500,
+                                        "size": 21.05,
+                                        "url": "/uploads/small_JEF_media_NXT_2_17_c0f747cf1f.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_17_c0f747cf1f",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 4362.24,
+                                "url": "/uploads/JEF_media_NXT_2_17_c0f747cf1f.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:54.781Z",
+                                "updatedAt": "2022-10-28T13:30:42.295Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-18.webp",
+                                "alternativeText": "JEF-mediaNXT-2-18.webp",
+                                "caption": "JEF-mediaNXT-2-18.webp",
+                                "width": 5760,
+                                "height": 3840,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-18.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_18_eb61bcbbd2",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 7.46,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_18_eb61bcbbd2.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-18.webp",
+                                        "hash": "large_JEF_media_NXT_2_18_eb61bcbbd2",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 51.98,
+                                        "url": "/uploads/large_JEF_media_NXT_2_18_eb61bcbbd2.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-18.webp",
+                                        "hash": "medium_JEF_media_NXT_2_18_eb61bcbbd2",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 34.83,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_18_eb61bcbbd2.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-18.webp",
+                                        "hash": "small_JEF_media_NXT_2_18_eb61bcbbd2",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 19.57,
+                                        "url": "/uploads/small_JEF_media_NXT_2_18_eb61bcbbd2.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_18_eb61bcbbd2",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 3786.89,
+                                "url": "/uploads/JEF_media_NXT_2_18_eb61bcbbd2.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:53.679Z",
+                                "updatedAt": "2022-10-28T13:30:46.742Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-16.webp",
+                                "alternativeText": "JEF-mediaNXT-2-16.webp",
+                                "caption": "JEF-mediaNXT-2-16.webp",
+                                "width": 3840,
+                                "height": 5760,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-16.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_16_85508488ef",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 104,
+                                        "height": 156,
+                                        "size": 3.19,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_16_85508488ef.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-16.webp",
+                                        "hash": "large_JEF_media_NXT_2_16_85508488ef",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 667,
+                                        "height": 1000,
+                                        "size": 37.17,
+                                        "url": "/uploads/large_JEF_media_NXT_2_16_85508488ef.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-16.webp",
+                                        "hash": "medium_JEF_media_NXT_2_16_85508488ef",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 750,
+                                        "size": 24.9,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_16_85508488ef.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-16.webp",
+                                        "hash": "small_JEF_media_NXT_2_16_85508488ef",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 333,
+                                        "height": 500,
+                                        "size": 14.73,
+                                        "url": "/uploads/small_JEF_media_NXT_2_16_85508488ef.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_16_85508488ef",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 3092.24,
+                                "url": "/uploads/JEF_media_NXT_2_16_85508488ef.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:53.226Z",
+                                "updatedAt": "2022-10-28T13:30:51.207Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-3.webp",
+                                "alternativeText": "JEF-mediaNXT-2-3.webp",
+                                "caption": "JEF-mediaNXT-2-3.webp",
+                                "width": 3840,
+                                "height": 5760,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-3.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_3_1002cb076e",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 104,
+                                        "height": 156,
+                                        "size": 4.57,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_3_1002cb076e.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-3.webp",
+                                        "hash": "medium_JEF_media_NXT_2_3_1002cb076e",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 750,
+                                        "size": 44.74,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_3_1002cb076e.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-3.webp",
+                                        "hash": "small_JEF_media_NXT_2_3_1002cb076e",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 333,
+                                        "height": 500,
+                                        "size": 24.64,
+                                        "url": "/uploads/small_JEF_media_NXT_2_3_1002cb076e.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-3.webp",
+                                        "hash": "large_JEF_media_NXT_2_3_1002cb076e",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 667,
+                                        "height": 1000,
+                                        "size": 68.1,
+                                        "url": "/uploads/large_JEF_media_NXT_2_3_1002cb076e.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_3_1002cb076e",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 2095.02,
+                                "url": "/uploads/JEF_media_NXT_2_3_1002cb076e.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:51.737Z",
+                                "updatedAt": "2022-10-28T13:30:55.505Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "name": "JEF-mediaNXT-2-9.webp",
+                                "alternativeText": "JEF-mediaNXT-2-9.webp",
+                                "caption": "JEF-mediaNXT-2-9.webp",
+                                "width": 3840,
+                                "height": 5760,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-mediaNXT-2-9.webp",
+                                        "hash": "thumbnail_JEF_media_NXT_2_9_bcd4ec53d0",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 104,
+                                        "height": 156,
+                                        "size": 2.37,
+                                        "url": "/uploads/thumbnail_JEF_media_NXT_2_9_bcd4ec53d0.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-mediaNXT-2-9.webp",
+                                        "hash": "large_JEF_media_NXT_2_9_bcd4ec53d0",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 667,
+                                        "height": 1000,
+                                        "size": 26.86,
+                                        "url": "/uploads/large_JEF_media_NXT_2_9_bcd4ec53d0.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-mediaNXT-2-9.webp",
+                                        "hash": "medium_JEF_media_NXT_2_9_bcd4ec53d0",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 750,
+                                        "size": 18.86,
+                                        "url": "/uploads/medium_JEF_media_NXT_2_9_bcd4ec53d0.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-mediaNXT-2-9.webp",
+                                        "hash": "small_JEF_media_NXT_2_9_bcd4ec53d0",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 333,
+                                        "height": 500,
+                                        "size": 11.11,
+                                        "url": "/uploads/small_JEF_media_NXT_2_9_bcd4ec53d0.webp"
+                                    }
+                                },
+                                "hash": "JEF_media_NXT_2_9_bcd4ec53d0",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 742.55,
+                                "url": "/uploads/JEF_media_NXT_2_9_bcd4ec53d0.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-27T15:55:48.398Z",
+                                "updatedAt": "2022-10-28T13:31:01.305Z"
+                            }
+                        }
+                    ]
+                },
+                "FeaturedMedia": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "JEF-mediaNXT-2-22.webp",
+                            "alternativeText": "JEF-mediaNXT-2-22.webp",
+                            "caption": "JEF-mediaNXT-2-22.webp",
+                            "width": 5760,
+                            "height": 3840,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_JEF-mediaNXT-2-22.webp",
+                                    "hash": "thumbnail_JEF_media_NXT_2_22_22ef8a22cb",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 7.88,
+                                    "url": "/uploads/thumbnail_JEF_media_NXT_2_22_22ef8a22cb.webp"
+                                },
+                                "medium": {
+                                    "name": "medium_JEF-mediaNXT-2-22.webp",
+                                    "hash": "medium_JEF_media_NXT_2_22_22ef8a22cb",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 42.25,
+                                    "url": "/uploads/medium_JEF_media_NXT_2_22_22ef8a22cb.webp"
+                                },
+                                "large": {
+                                    "name": "large_JEF-mediaNXT-2-22.webp",
+                                    "hash": "large_JEF_media_NXT_2_22_22ef8a22cb",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 65.7,
+                                    "url": "/uploads/large_JEF_media_NXT_2_22_22ef8a22cb.webp"
+                                },
+                                "small": {
+                                    "name": "small_JEF-mediaNXT-2-22.webp",
+                                    "hash": "small_JEF_media_NXT_2_22_22ef8a22cb",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 23.74,
+                                    "url": "/uploads/small_JEF_media_NXT_2_22_22ef8a22cb.webp"
+                                }
+                            },
+                            "hash": "JEF_media_NXT_2_22_22ef8a22cb",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 2839.93,
+                            "url": "/uploads/JEF_media_NXT_2_22_22ef8a22cb.webp",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-27T15:55:58.045Z",
+                            "updatedAt": "2022-10-28T13:30:24.737Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "Title": "Begijnenstraat Mechelen",
+                "description": "Deze video van het appartement in de begijnenstraat in Mechelen wordt gemaakt om in te zetten in de verkoop van dit pand. Het is een speciaal appartement door de ligging én ook omdat het zich bevindt in het oude klooster midden in het centrum van Mechelen. Van op het terras heb je zicht op de Sint-Rombouts kathedraal. Aan de andere zijde heb je een prachtige binnenplaats met het prachtige klooster rondom.",
+                "Date": "2022-09-15",
+                "tags": "video, vastgoed",
+                "UrlVideo": "https://www.youtube.com/embed/RnKHrp34ZnY?start=37",
+                "createdAt": "2022-10-28T15:31:25.834Z",
+                "updatedAt": "2022-10-29T18:21:50.597Z",
+                "publishedAt": "2022-10-28T15:31:29.453Z",
+                "client": null,
+                "Media": {
+                    "data": null
+                },
+                "FeaturedMedia": {
+                    "data": {
+                        "id": 9,
+                        "attributes": {
+                            "name": "Begijnenstraat.webp",
+                            "alternativeText": "Begijnenstraat Mechelen",
+                            "caption": "Begijnenstraat Mechelen",
+                            "width": 4320,
+                            "height": 2430,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_JE2A3335-1-low.webp",
+                                    "hash": "thumbnail_JE_2_A3335_1_low_d160bca5f6",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 245,
+                                    "height": 138,
+                                    "size": 6.32,
+                                    "url": "/uploads/thumbnail_JE_2_A3335_1_low_d160bca5f6.webp"
+                                },
+                                "large": {
+                                    "name": "large_JE2A3335-1-low.webp",
+                                    "hash": "large_JE_2_A3335_1_low_d160bca5f6",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 562,
+                                    "size": 46.39,
+                                    "url": "/uploads/large_JE_2_A3335_1_low_d160bca5f6.webp"
+                                },
+                                "small": {
+                                    "name": "small_JE2A3335-1-low.webp",
+                                    "hash": "small_JE_2_A3335_1_low_d160bca5f6",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 281,
+                                    "size": 17.67,
+                                    "url": "/uploads/small_JE_2_A3335_1_low_d160bca5f6.webp"
+                                },
+                                "medium": {
+                                    "name": "medium_JE2A3335-1-low.webp",
+                                    "hash": "medium_JE_2_A3335_1_low_d160bca5f6",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 422,
+                                    "size": 31.15,
+                                    "url": "/uploads/medium_JE_2_A3335_1_low_d160bca5f6.webp"
+                                }
+                            },
+                            "hash": "JE_2_A3335_1_low_d160bca5f6",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 801.17,
+                            "url": "/uploads/JE_2_A3335_1_low_d160bca5f6.webp",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-28T13:34:05.128Z",
+                            "updatedAt": "2022-10-28T15:31:05.710Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "Title": "De lettertrap - Brood & Pers",
+                "description": null,
+                "Date": "2022-04-12",
+                "tags": "Photo & Video",
+                "UrlVideo": "https://www.youtube.com/embed/cAkhxffDl_k",
+                "createdAt": "2022-10-29T19:01:58.172Z",
+                "updatedAt": "2022-10-29T19:02:34.078Z",
+                "publishedAt": "2022-10-29T19:02:34.076Z",
+                "client": "De Lettertrap",
+                "Media": {
+                    "data": null
+                },
+                "FeaturedMedia": {
+                    "data": {
+                        "id": 10,
+                        "attributes": {
+                            "name": "DeLettertrap-featuredMedia.webp",
+                            "alternativeText": "DeLettertrap-featuredMedia.webp",
+                            "caption": "DeLettertrap-featuredMedia.webp",
+                            "width": 2560,
+                            "height": 1707,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_DeLettertrap-featuredMedia.webp",
+                                    "hash": "thumbnail_De_Lettertrap_featured_Media_d453512def",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 5.9,
+                                    "url": "/uploads/thumbnail_De_Lettertrap_featured_Media_d453512def.webp"
+                                },
+                                "large": {
+                                    "name": "large_DeLettertrap-featuredMedia.webp",
+                                    "hash": "large_De_Lettertrap_featured_Media_d453512def",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 42.37,
+                                    "url": "/uploads/large_De_Lettertrap_featured_Media_d453512def.webp"
+                                },
+                                "medium": {
+                                    "name": "medium_DeLettertrap-featuredMedia.webp",
+                                    "hash": "medium_De_Lettertrap_featured_Media_d453512def",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 28.89,
+                                    "url": "/uploads/medium_De_Lettertrap_featured_Media_d453512def.webp"
+                                },
+                                "small": {
+                                    "name": "small_DeLettertrap-featuredMedia.webp",
+                                    "hash": "small_De_Lettertrap_featured_Media_d453512def",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 16.49,
+                                    "url": "/uploads/small_De_Lettertrap_featured_Media_d453512def.webp"
+                                }
+                            },
+                            "hash": "De_Lettertrap_featured_Media_d453512def",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 169.56,
+                            "url": "/uploads/De_Lettertrap_featured_Media_d453512def.webp",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-29T19:00:55.745Z",
+                            "updatedAt": "2022-10-29T19:00:55.745Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "Title": "Jaguar Type F",
+                "description": null,
+                "Date": null,
+                "tags": "Photo",
+                "UrlVideo": null,
+                "createdAt": "2022-10-30T06:42:01.525Z",
+                "updatedAt": "2022-10-30T06:42:02.607Z",
+                "publishedAt": "2022-10-30T06:42:02.605Z",
+                "client": null,
+                "Media": {
+                    "data": [
+                        {
+                            "id": 11,
+                            "attributes": {
+                                "name": "JEF-Jaguar-2.webp",
+                                "alternativeText": "JEF-Jaguar-2.webp",
+                                "caption": "JEF-Jaguar-2.webp",
+                                "width": 2000,
+                                "height": 1333,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-Jaguar-2.webp",
+                                        "hash": "thumbnail_JEF_Jaguar_2_e606a5251c",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 5.44,
+                                        "url": "/uploads/thumbnail_JEF_Jaguar_2_e606a5251c.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-Jaguar-2.webp",
+                                        "hash": "medium_JEF_Jaguar_2_e606a5251c",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 45.5,
+                                        "url": "/uploads/medium_JEF_Jaguar_2_e606a5251c.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-Jaguar-2.webp",
+                                        "hash": "small_JEF_Jaguar_2_e606a5251c",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 21.26,
+                                        "url": "/uploads/small_JEF_Jaguar_2_e606a5251c.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-Jaguar-2.webp",
+                                        "hash": "large_JEF_Jaguar_2_e606a5251c",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 666,
+                                        "size": 81.8,
+                                        "url": "/uploads/large_JEF_Jaguar_2_e606a5251c.webp"
+                                    }
+                                },
+                                "hash": "JEF_Jaguar_2_e606a5251c",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 330.34,
+                                "url": "/uploads/JEF_Jaguar_2_e606a5251c.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T06:41:27.370Z",
+                                "updatedAt": "2022-10-30T06:41:27.370Z"
+                            }
+                        },
+                        {
+                            "id": 12,
+                            "attributes": {
+                                "name": "JEF-Jaguar-3.webp",
+                                "alternativeText": "JEF-Jaguar-3.webp",
+                                "caption": "JEF-Jaguar-3.webp",
+                                "width": 2000,
+                                "height": 2500,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JEF-Jaguar-3.webp",
+                                        "hash": "thumbnail_JEF_Jaguar_3_3e20727f14",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 125,
+                                        "height": 156,
+                                        "size": 2.14,
+                                        "url": "/uploads/thumbnail_JEF_Jaguar_3_3e20727f14.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JEF-Jaguar-3.webp",
+                                        "hash": "large_JEF_Jaguar_3_3e20727f14",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 800,
+                                        "height": 1000,
+                                        "size": 36.22,
+                                        "url": "/uploads/large_JEF_Jaguar_3_3e20727f14.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JEF-Jaguar-3.webp",
+                                        "hash": "medium_JEF_Jaguar_3_3e20727f14",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 600,
+                                        "height": 750,
+                                        "size": 22.63,
+                                        "url": "/uploads/medium_JEF_Jaguar_3_3e20727f14.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JEF-Jaguar-3.webp",
+                                        "hash": "small_JEF_Jaguar_3_3e20727f14",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 400,
+                                        "height": 500,
+                                        "size": 12.17,
+                                        "url": "/uploads/small_JEF_Jaguar_3_3e20727f14.webp"
+                                    }
+                                },
+                                "hash": "JEF_Jaguar_3_3e20727f14",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 203.2,
+                                "url": "/uploads/JEF_Jaguar_3_3e20727f14.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T06:41:27.600Z",
+                                "updatedAt": "2022-10-30T06:41:27.600Z"
+                            }
+                        }
+                    ]
+                },
+                "FeaturedMedia": {
+                    "data": {
+                        "id": 13,
+                        "attributes": {
+                            "name": "JEF-Jaguar-1.webp",
+                            "alternativeText": "JEF-Jaguar-1.webp",
+                            "caption": "JEF-Jaguar-1.webp",
+                            "width": 2000,
+                            "height": 3000,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_JEF-Jaguar-1.webp",
+                                    "hash": "thumbnail_JEF_Jaguar_1_de914ebc66",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 104,
+                                    "height": 156,
+                                    "size": 2.38,
+                                    "url": "/uploads/thumbnail_JEF_Jaguar_1_de914ebc66.webp"
+                                },
+                                "medium": {
+                                    "name": "medium_JEF-Jaguar-1.webp",
+                                    "hash": "medium_JEF_Jaguar_1_de914ebc66",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 750,
+                                    "size": 47.12,
+                                    "url": "/uploads/medium_JEF_Jaguar_1_de914ebc66.webp"
+                                },
+                                "small": {
+                                    "name": "small_JEF-Jaguar-1.webp",
+                                    "hash": "small_JEF_Jaguar_1_de914ebc66",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 333,
+                                    "height": 500,
+                                    "size": 20.67,
+                                    "url": "/uploads/small_JEF_Jaguar_1_de914ebc66.webp"
+                                },
+                                "large": {
+                                    "name": "large_JEF-Jaguar-1.webp",
+                                    "hash": "large_JEF_Jaguar_1_de914ebc66",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 667,
+                                    "height": 1000,
+                                    "size": 84.55,
+                                    "url": "/uploads/large_JEF_Jaguar_1_de914ebc66.webp"
+                                }
+                            },
+                            "hash": "JEF_Jaguar_1_de914ebc66",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 779.93,
+                            "url": "/uploads/JEF_Jaguar_1_de914ebc66.webp",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-30T06:41:28.335Z",
+                            "updatedAt": "2022-10-30T06:41:44.786Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "Title": "Strada Legale Advocaten",
+                "description": null,
+                "Date": null,
+                "tags": "Photo",
+                "UrlVideo": null,
+                "createdAt": "2022-10-30T08:07:27.623Z",
+                "updatedAt": "2022-10-30T08:07:28.440Z",
+                "publishedAt": "2022-10-30T08:07:28.438Z",
+                "client": "Strada Legale",
+                "Media": {
+                    "data": [
+                        {
+                            "id": 18,
+                            "attributes": {
+                                "name": "JFV_Pixell_StradaLegale_extra-86.webp",
+                                "alternativeText": "JFV_Pixell_StradaLegale_extra-86.webp",
+                                "caption": "JFV_Pixell_StradaLegale_extra-86.webp",
+                                "width": 2736,
+                                "height": 1824,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JFV_Pixell_StradaLegale_extra-86.webp",
+                                        "hash": "thumbnail_JFV_Pixell_Strada_Legale_extra_86_570aea38dc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 3.4,
+                                        "url": "/uploads/thumbnail_JFV_Pixell_Strada_Legale_extra_86_570aea38dc.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JFV_Pixell_StradaLegale_extra-86.webp",
+                                        "hash": "large_JFV_Pixell_Strada_Legale_extra_86_570aea38dc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 50.19,
+                                        "url": "/uploads/large_JFV_Pixell_Strada_Legale_extra_86_570aea38dc.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JFV_Pixell_StradaLegale_extra-86.webp",
+                                        "hash": "medium_JFV_Pixell_Strada_Legale_extra_86_570aea38dc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 29.88,
+                                        "url": "/uploads/medium_JFV_Pixell_Strada_Legale_extra_86_570aea38dc.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JFV_Pixell_StradaLegale_extra-86.webp",
+                                        "hash": "small_JFV_Pixell_Strada_Legale_extra_86_570aea38dc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 14.65,
+                                        "url": "/uploads/small_JFV_Pixell_Strada_Legale_extra_86_570aea38dc.webp"
+                                    }
+                                },
+                                "hash": "JFV_Pixell_Strada_Legale_extra_86_570aea38dc",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 340.08,
+                                "url": "/uploads/JFV_Pixell_Strada_Legale_extra_86_570aea38dc.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T08:03:15.638Z",
+                                "updatedAt": "2022-10-30T08:03:15.638Z"
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "attributes": {
+                                "name": "JFV_Pixell_StradaLegale_extra-61.webp",
+                                "alternativeText": "JFV_Pixell_StradaLegale_extra-61.webp",
+                                "caption": "JFV_Pixell_StradaLegale_extra-61.webp",
+                                "width": 2736,
+                                "height": 1824,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JFV_Pixell_StradaLegale_extra-61.webp",
+                                        "hash": "thumbnail_JFV_Pixell_Strada_Legale_extra_61_6862029dde",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 3.27,
+                                        "url": "/uploads/thumbnail_JFV_Pixell_Strada_Legale_extra_61_6862029dde.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JFV_Pixell_StradaLegale_extra-61.webp",
+                                        "hash": "large_JFV_Pixell_Strada_Legale_extra_61_6862029dde",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 42.38,
+                                        "url": "/uploads/large_JFV_Pixell_Strada_Legale_extra_61_6862029dde.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JFV_Pixell_StradaLegale_extra-61.webp",
+                                        "hash": "medium_JFV_Pixell_Strada_Legale_extra_61_6862029dde",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 26.26,
+                                        "url": "/uploads/medium_JFV_Pixell_Strada_Legale_extra_61_6862029dde.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JFV_Pixell_StradaLegale_extra-61.webp",
+                                        "hash": "small_JFV_Pixell_Strada_Legale_extra_61_6862029dde",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 13.19,
+                                        "url": "/uploads/small_JFV_Pixell_Strada_Legale_extra_61_6862029dde.webp"
+                                    }
+                                },
+                                "hash": "JFV_Pixell_Strada_Legale_extra_61_6862029dde",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 199.87,
+                                "url": "/uploads/JFV_Pixell_Strada_Legale_extra_61_6862029dde.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T08:03:15.396Z",
+                                "updatedAt": "2022-10-30T08:03:15.396Z"
+                            }
+                        },
+                        {
+                            "id": 16,
+                            "attributes": {
+                                "name": "JFV_Pixell_StradaLegale_extra-85.webp",
+                                "alternativeText": "JFV_Pixell_StradaLegale_extra-85.webp",
+                                "caption": "JFV_Pixell_StradaLegale_extra-85.webp",
+                                "width": 2736,
+                                "height": 1824,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JFV_Pixell_StradaLegale_extra-85.webp",
+                                        "hash": "thumbnail_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 2.99,
+                                        "url": "/uploads/thumbnail_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JFV_Pixell_StradaLegale_extra-85.webp",
+                                        "hash": "large_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 22.07,
+                                        "url": "/uploads/large_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JFV_Pixell_StradaLegale_extra-85.webp",
+                                        "hash": "medium_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 14.58,
+                                        "url": "/uploads/medium_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JFV_Pixell_StradaLegale_extra-85.webp",
+                                        "hash": "small_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 8.34,
+                                        "url": "/uploads/small_JFV_Pixell_Strada_Legale_extra_85_d08c8707bc.webp"
+                                    }
+                                },
+                                "hash": "JFV_Pixell_Strada_Legale_extra_85_d08c8707bc",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 139.29,
+                                "url": "/uploads/JFV_Pixell_Strada_Legale_extra_85_d08c8707bc.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T08:03:15.224Z",
+                                "updatedAt": "2022-10-30T08:03:15.224Z"
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "attributes": {
+                                "name": "JFV_Pixell_StradaLegale_extra-95.webp",
+                                "alternativeText": "JFV_Pixell_StradaLegale_extra-95.webp",
+                                "caption": "JFV_Pixell_StradaLegale_extra-95.webp",
+                                "width": 2736,
+                                "height": 1824,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JFV_Pixell_StradaLegale_extra-95.webp",
+                                        "hash": "thumbnail_JFV_Pixell_Strada_Legale_extra_95_080746f78a",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 2.2,
+                                        "url": "/uploads/thumbnail_JFV_Pixell_Strada_Legale_extra_95_080746f78a.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JFV_Pixell_StradaLegale_extra-95.webp",
+                                        "hash": "large_JFV_Pixell_Strada_Legale_extra_95_080746f78a",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 15.1,
+                                        "url": "/uploads/large_JFV_Pixell_Strada_Legale_extra_95_080746f78a.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JFV_Pixell_StradaLegale_extra-95.webp",
+                                        "hash": "medium_JFV_Pixell_Strada_Legale_extra_95_080746f78a",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 10.07,
+                                        "url": "/uploads/medium_JFV_Pixell_Strada_Legale_extra_95_080746f78a.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JFV_Pixell_StradaLegale_extra-95.webp",
+                                        "hash": "small_JFV_Pixell_Strada_Legale_extra_95_080746f78a",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 5.77,
+                                        "url": "/uploads/small_JFV_Pixell_Strada_Legale_extra_95_080746f78a.webp"
+                                    }
+                                },
+                                "hash": "JFV_Pixell_Strada_Legale_extra_95_080746f78a",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 83.3,
+                                "url": "/uploads/JFV_Pixell_Strada_Legale_extra_95_080746f78a.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T08:03:15.191Z",
+                                "updatedAt": "2022-10-30T08:03:15.191Z"
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "attributes": {
+                                "name": "JFV_Pixell_StradaLegale_extra-11.webp",
+                                "alternativeText": "JFV_Pixell_StradaLegale_extra-11.webp",
+                                "caption": "JFV_Pixell_StradaLegale_extra-11.webp",
+                                "width": 2736,
+                                "height": 1824,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_JFV_Pixell_StradaLegale_extra-11.webp",
+                                        "hash": "thumbnail_JFV_Pixell_Strada_Legale_extra_11_d3466ee403",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 234,
+                                        "height": 156,
+                                        "size": 1.93,
+                                        "url": "/uploads/thumbnail_JFV_Pixell_Strada_Legale_extra_11_d3466ee403.webp"
+                                    },
+                                    "large": {
+                                        "name": "large_JFV_Pixell_StradaLegale_extra-11.webp",
+                                        "hash": "large_JFV_Pixell_Strada_Legale_extra_11_d3466ee403",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 1000,
+                                        "height": 667,
+                                        "size": 13.28,
+                                        "url": "/uploads/large_JFV_Pixell_Strada_Legale_extra_11_d3466ee403.webp"
+                                    },
+                                    "medium": {
+                                        "name": "medium_JFV_Pixell_StradaLegale_extra-11.webp",
+                                        "hash": "medium_JFV_Pixell_Strada_Legale_extra_11_d3466ee403",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 750,
+                                        "height": 500,
+                                        "size": 8.84,
+                                        "url": "/uploads/medium_JFV_Pixell_Strada_Legale_extra_11_d3466ee403.webp"
+                                    },
+                                    "small": {
+                                        "name": "small_JFV_Pixell_StradaLegale_extra-11.webp",
+                                        "hash": "small_JFV_Pixell_Strada_Legale_extra_11_d3466ee403",
+                                        "ext": ".webp",
+                                        "mime": "image/webp",
+                                        "path": null,
+                                        "width": 500,
+                                        "height": 333,
+                                        "size": 4.97,
+                                        "url": "/uploads/small_JFV_Pixell_Strada_Legale_extra_11_d3466ee403.webp"
+                                    }
+                                },
+                                "hash": "JFV_Pixell_Strada_Legale_extra_11_d3466ee403",
+                                "ext": ".webp",
+                                "mime": "image/webp",
+                                "size": 72.88,
+                                "url": "/uploads/JFV_Pixell_Strada_Legale_extra_11_d3466ee403.webp",
+                                "previewUrl": null,
+                                "provider": "local",
+                                "provider_metadata": null,
+                                "createdAt": "2022-10-30T08:03:15.078Z",
+                                "updatedAt": "2022-10-30T08:03:15.078Z"
+                            }
+                        }
+                    ]
+                },
+                "FeaturedMedia": {
+                    "data": {
+                        "id": 19,
+                        "attributes": {
+                            "name": "JEF_StradaLegale-116.webp",
+                            "alternativeText": "JEF_StradaLegale-116.webp",
+                            "caption": "JEF_StradaLegale-116.webp",
+                            "width": 2736,
+                            "height": 1824,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_JEF_StradaLegale-116.webp",
+                                    "hash": "thumbnail_JEF_Strada_Legale_116_f429a3036b",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 7.34,
+                                    "url": "/uploads/thumbnail_JEF_Strada_Legale_116_f429a3036b.webp"
+                                },
+                                "large": {
+                                    "name": "large_JEF_StradaLegale-116.webp",
+                                    "hash": "large_JEF_Strada_Legale_116_f429a3036b",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 64.54,
+                                    "url": "/uploads/large_JEF_Strada_Legale_116_f429a3036b.webp"
+                                },
+                                "medium": {
+                                    "name": "medium_JEF_StradaLegale-116.webp",
+                                    "hash": "medium_JEF_Strada_Legale_116_f429a3036b",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 40.8,
+                                    "url": "/uploads/medium_JEF_Strada_Legale_116_f429a3036b.webp"
+                                },
+                                "small": {
+                                    "name": "small_JEF_StradaLegale-116.webp",
+                                    "hash": "small_JEF_Strada_Legale_116_f429a3036b",
+                                    "ext": ".webp",
+                                    "mime": "image/webp",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 21.83,
+                                    "url": "/uploads/small_JEF_Strada_Legale_116_f429a3036b.webp"
+                                }
+                            },
+                            "hash": "JEF_Strada_Legale_116_f429a3036b",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 433.06,
+                            "url": "/uploads/JEF_Strada_Legale_116_f429a3036b.webp",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-10-30T08:06:29.546Z",
+                            "updatedAt": "2022-10-30T08:07:03.023Z"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}

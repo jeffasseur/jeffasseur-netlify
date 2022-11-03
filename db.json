@@ -1,0 +1,40 @@
+{
+"portfolioItems": [
+    {
+        "id": 1,
+        "title": "Kloosterstraat 50, Mechelen",
+        "tag": "Video",
+        "image": "./assets/images/JE2A3335-1-low.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Perstablo",
+        "tag": "Foto",
+        "image": "./assets/images/JFV_Perstablo-29-09-17.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Proclamatie",
+        "tag": "Foto",
+        "image": "./assets/images/JFV_Proclamatie-17.jpg"
+    },
+    {
+        "id": 4,
+        "title": "BMW X5",
+        "tag": "Foto",
+        "image": "./assets/images/JFV_X5_Hill-1.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Koffie Fasseur",
+        "tag": "Foto",
+        "image": "./assets/images/koffie-fasseur-1.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Lac D'Eupen",
+        "tag": "Drone",
+        "image": "./assets/images/LacDeupen-numbers.jpg"
+    }
+]
+}
